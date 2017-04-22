@@ -1,0 +1,1 @@
+/home/edward/ludwin/piramide/build/CMakeFiles/piramide.dir
